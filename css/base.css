@@ -17,8 +17,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {  
-  font-size: 36px;
+  font-size: 42px;
   margin: 0.15em 0 0em 0;
+}
+
+a {
+  text-decoration: none;
 }
 
 .header {
@@ -31,24 +35,29 @@ h1 {
 }
 
 
-header img.flowers {
+header .flowers_holder {
   position: absolute;
   top: 0px;
+}
+
+header img.flowers {
+  position: relative;
+  left: -30px;
 }
 
 header img.names {
   position: relative;
   top: 0px;
-  left: 350px;
+  left: 335px;
 }
 
 .main_nav {
-  margin-top: 80px;
+  margin-top: 90px;
 }
 
 
 .content {
-  margin-top: 60px;
+  margin-top: 30px;
   margin-bottom: 30px;
 }
 
@@ -62,6 +71,20 @@ header img.names {
   background-color: #76abeb;
   border-top: 8px solid white;
   color: #fff;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
   padding: 8px;
   text-align: center;
+}
+
+.footer a {
+  color: white;
+}
+
+.footer a:hover {
+  color: #eee;
+}
+
+.copyright {
+  padding-left: 10px;
 }
