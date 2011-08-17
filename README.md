@@ -2,7 +2,7 @@
 
 Here's a design for fellow engineers who promise their friends a wedding website and underestimate the time to design one.  
 
-![Mockup](https://github.com/danclien/sunflowers/blob/master/img/mockup.png "Mockup")
+![Mockup](https://github.com/danclien/sunflowers/blob/master/img/mockup.png?raw=true "Mockup")
 
 ## License
 
