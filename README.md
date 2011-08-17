@@ -2,6 +2,8 @@
 
 Here's a design for fellow engineers who promise their friends a wedding website and underestimate the time to design one.  
 
+![Mockup](https://github.com/danclien/sunflowers/blob/master/img/mockup.png "Mockup")
+
 ## License
 
 [![CC BY-NC-SA](http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png "Attribution-NonCommercial-ShareAlike")][1]
