@@ -1,0 +1,67 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+body {
+  background-color: #1d5dac;
+  background-image: url("../img/bg41.png"), url("../img/bg67.png"), url("../img/bg89.png"), url("../img/bg137.png");
+  font-family: "Gentium Basic", serif;
+  font-size: 18px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #ff9650;
+  font-family: "Dancing Script", serif;
+}
+
+h1 {  
+  font-size: 36px;
+  margin: 0.15em 0 0em 0;
+}
+
+.header {
+  background-color: #76abeb;
+  background-image: url("../img/header_bg.png");
+  background-position: center; 
+  background-repeat: no-repeat;
+  border-bottom: 8px solid white;
+  height: 193px;
+}
+
+
+header img.flowers {
+  position: absolute;
+  top: 0px;
+}
+
+header img.names {
+  position: relative;
+  top: 0px;
+  left: 350px;
+}
+
+.main_nav {
+  margin-top: 80px;
+}
+
+
+.content {
+  margin-top: 60px;
+  margin-bottom: 30px;
+}
+
+.content_box {
+  background: white;
+  margin: 0 0 0 0;
+  border: 10px solid white;
+}
+
+.footer {
+  background-color: #76abeb;
+  border-top: 8px solid white;
+  color: #fff;
+  padding: 8px;
+  text-align: center;
+}
